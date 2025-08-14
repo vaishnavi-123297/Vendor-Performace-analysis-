@@ -14,7 +14,7 @@
 The Vendor Performance Analysis project aims to evaluate and analyze the performance of vendors in the Operations department. The analysis focuses on delivery performance, product quality, and associated costs. By examining these key metrics, the project seeks to identify opportunities for process optimization, cost savings, and quality improvement. The analysis findings and recommendations will enable the Operations department and executive team to make data-driven decisions and enhance vendor management strategies.
 
 ## Project Objectives
-- Evaluate delivery performance and distribution (on-time vs. early deliveries)
+- Evaluate delivery performance and distribution (on-time vs. early deliveries) 
 - Analyze total freight costs over multiple years
 - Assess product quality trends and rejection rates
 - Identify potential correlations between vendor performance and associated costs
